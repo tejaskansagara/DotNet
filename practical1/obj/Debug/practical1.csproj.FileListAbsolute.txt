@@ -1,0 +1,5 @@
+E:\study degree\sem-6\DotNet\DotNetProject\practical1\bin\Debug\practical1.exe.config
+E:\study degree\sem-6\DotNet\DotNetProject\practical1\bin\Debug\practical1.exe
+E:\study degree\sem-6\DotNet\DotNetProject\practical1\bin\Debug\practical1.pdb
+E:\study degree\sem-6\DotNet\DotNetProject\practical1\obj\Debug\practical1.exe
+E:\study degree\sem-6\DotNet\DotNetProject\practical1\obj\Debug\practical1.pdb

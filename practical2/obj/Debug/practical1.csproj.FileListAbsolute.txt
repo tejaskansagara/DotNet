@@ -1,0 +1,6 @@
+E:\study degree\sem-6\DotNet\practical2\practical2\bin\Debug\practical2.exe.config
+E:\study degree\sem-6\DotNet\practical2\practical2\bin\Debug\practical2.exe
+E:\study degree\sem-6\DotNet\practical2\practical2\bin\Debug\practical2.pdb
+E:\study degree\sem-6\DotNet\practical2\practical2\obj\Debug\practical2.exe
+E:\study degree\sem-6\DotNet\practical2\practical2\obj\Debug\practical2.pdb
+E:\study degree\sem-6\DotNet\practical2\practical2\obj\Debug\practical1.csprojResolveAssemblyReference.cache

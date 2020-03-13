@@ -1,0 +1,6 @@
+E:\study degree\sem-6\DotNet\DotNetProject\practical3\bin\Debug\practical3.exe.config
+E:\study degree\sem-6\DotNet\DotNetProject\practical3\bin\Debug\practical3.exe
+E:\study degree\sem-6\DotNet\DotNetProject\practical3\bin\Debug\practical3.pdb
+E:\study degree\sem-6\DotNet\DotNetProject\practical3\obj\Debug\practical3.csprojResolveAssemblyReference.cache
+E:\study degree\sem-6\DotNet\DotNetProject\practical3\obj\Debug\practical3.exe
+E:\study degree\sem-6\DotNet\DotNetProject\practical3\obj\Debug\practical3.pdb
